@@ -31,12 +31,3 @@ img:hover{
 	transition: .04s transform;
 }
 
-.maindiv{
-    width: 70%
-     height: 400px;
-position: absolute;
-left: 50%;
-top: 50%;
-background-image: url('https://www.pexels.com/photo/cabin-on-green-grass-field-near-lake-under-white-clouds-3689772/');
-background-size: 100% 100%;
-}
